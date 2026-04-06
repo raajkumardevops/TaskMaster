@@ -1,16 +1,64 @@
-# React + Vite
+# 🚀 TaskMaster — Smart Productivity OS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A Notion-inspired productivity web application built using React.
+TaskMaster allows users to manage tasks, notes, and structured data using a flexible block-based system.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🧠 Features
 
-## React Compiler
+* 📁 Create & manage pages
+* 🧱 Block-based editor (Text + Checkbox)
+* ✏️ Editable page titles
+* ⚡ Slash command (`/text`, `/checkbox`)
+* ❌ Delete blocks & pages
+* 💾 Auto-save using localStorage
+* 📊 Dashboard with task statistics
+* 🎨 Clean UI inspired by Notion
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🏗️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React (Vite)
+* Bootstrap
+* localStorage
+
+---
+
+## 📸 Screenshots
+
+(Add your screenshots here)
+
+---
+
+## 🚀 Getting Started
+
+```bash
+npm install
+npm run dev
+```
+
+---
+
+## 🎯 Future Enhancements
+
+* Drag & Drop blocks
+* Backend (MERN Stack)
+* Authentication (JWT)
+* AI-powered features
+* Tags & filters
+
+---
+
+## 💡 Author
+
+**Raaj Kumar**
+
+---
+
+## ⭐ Project Vision
+
+TaskMaster aims to become a powerful productivity system combining tasks, notes, and structured workflows into a single platform.
+
+---
