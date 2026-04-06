@@ -1,0 +1,18 @@
+body {
+  background-color: #191919;
+  color: #e6e6e6;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+/* Inputs */
+input {
+  background: transparent;
+  color: #e6e6e6;
+  border: none !important;
+  outline: none !important;
+}
+
+/* Placeholder */
+input::placeholder {
+  color: #888;
+}
